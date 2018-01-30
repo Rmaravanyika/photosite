@@ -25,7 +25,7 @@ SECRET_KEY = 'kszfvmzb+qnk2c@(kx3&&c^oxk(pm_jv6v@*$esgc6pc1pfk-i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['loydkudaphotography.pythonanywhere.com']
 
 
 # Application definition
